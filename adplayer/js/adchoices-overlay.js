@@ -2,9 +2,9 @@ try { (function(){
   var ADPConfig = {
     items: [                                                                            // Insert your OBA information.
       {
-        title:    'zanox',                                                // You can add one or more information items.
-        text:     "As Europe's leading performance advertising network, zanox offers publishers access to more than 4,000 advertisers. Benefit from our affiliate marketing know-how to monetize your traffic and make money online. ",                                                // This example handles two information items.
-        url:      'http://www.zanox.com',
+        title:    'zanox.de AG',                                                // You can add one or more information items.
+        text:     "Sie sehen diese Anzeige weil Ihr Surfverhalten anonymisiert von zanox protokolliert wird. Wenn sie dies nicht mehr wuenschen klicken sie auf diesen Button und folgen Sie den Anweisungen.",                                                // This example handles two information items.
+        url:      'http://www.youronlinechoices.com',
         linkText: 'More Information'
       }
     ],
